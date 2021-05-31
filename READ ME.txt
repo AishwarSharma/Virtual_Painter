@@ -4,7 +4,6 @@
 
 3)After Completing the above 2 process, open Visual Studio and:
  -> Create Empty Project
- -> Add the RESOURCE File inside it.
  -> Paste the Code in .cpp file. (run it and enjoy)
 
 
